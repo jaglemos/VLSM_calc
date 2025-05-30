@@ -117,10 +117,15 @@ El script te pedirá:
 🖥 Ejemplo
 
 Introduce la red base (ej: 192.168.1.0): 192.168.1.0
+
 Introduce la máscara en CIDR (ej: 24): 24
+
 ¿Cuántas subredes necesitas?: 3
+
 Número de hosts para subred 1: 100
+
 Número de hosts para subred 2: 50
+
 Número de hosts para subred 3: 10
 
 Resultado:
